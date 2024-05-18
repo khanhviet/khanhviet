@@ -11,7 +11,7 @@
 🥰 My favorite Book is "change 1 thought change your whole life"!<br />
 😘------------------Thank you everyone for reading and wish everyone good health and success in work-------------------😘
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/viet_library" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellieinstem" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~khanh_viet" target="blank"><img align="center" src="https://github.com/khanhviet/khanhviet/blob/main/library.svg" alt="elliesleightholm" height="30" width="40" /></a>
