@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://www.instagram.com/viet_library" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ellieinstem" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LeKhanhViet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elliesleightholm" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100033285840596" target="blank"><img align="center" src="https://github.com/khanhviet/khanhviet/blob/main/facebook.svg" alt="elliesleightholm" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kh%C3%A1nh-vi%E1%BB%87t-b62017182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliesleightholm" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100033285840596" target="blank"><img align="center" src="https://github.com/khanhviet/khanhviet/blob/main/facebook.svg" alt="elliesleightholm" height="30" width="40" /></a>
+
 </p>
 
