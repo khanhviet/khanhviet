@@ -7,7 +7,7 @@
 🥰 I am currently a developer for an FPT company with over 29 Countries.<br />
 💗 I love reading Books, making YouTube, writing Libraries for Sky Software to use.<br />
 💗 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel.<br />
-😊 Happiness is helping everyone, especially Family.<br />
+😊 Happiness is helping Everyone, especially Family.<br />
 🥰 My favorite Book is "change a thought change your whole life"!<br />
 😘------------------Thank you Everyone for reading and wish Everyone good health and success in work-------------------😘
 
