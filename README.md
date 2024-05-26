@@ -1,4 +1,6 @@
-<a href="https://github.com/khanhviet/khanhviet/blob/main/css.svg"><h1 align="center">Hey there 👋 I'm Viet!</h1></a>
+<a href="https://github.com/khanhviet/khanhviet/blob/main/css.svg"> <img src="css.svg" width="800" height="400" alt="Click to see the source"></a>
+
+<><h1 align="center">Hey there 👋 I'm Viet!</h1>
 <h3 align="center">Software Developer 🤫 Graduated from Pedagogical University 😻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
