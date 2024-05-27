@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
 
-🥰 I am currently a developer for an FPT company with over 29 Countries.<br />
-💕 I love reading Books, making YouTube, writing Libraries for the Software World to use.<br />
-💕 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel.<br />
-😊 Happiness is helping Everyone, especially Family.<br />
+🥰 I am currently a developer for an FPT company with over 29 Countries!<br />
+💕 I love reading Books, making YouTube, writing Libraries for the Software World to use!<br />
+💕 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel!<br />
+😊 Happiness is helping Everyone, especially Family!<br />
 🥰 My favorite Book is "change a thought change your whole life"!<br />
-😘------------------Thank you Everyone for reading and wish Everyone good health and success in work-------------------😘
+😘------------------!...!Thank you Everyone for reading and wish Everyone good health and success in work!...!-------------------😘
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
