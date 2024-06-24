@@ -7,7 +7,6 @@
 💕 I love reading Books, making YouTube, writing Libraries for the Software World to use!<br />
 💕 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel!<br />
 ❣️ Happiness is helping Everyone, especially Family!<br />
-🥰 My favorite Book is "change a thought change your whole life"!<br />
 🥰 My favorite Author is Michael J. Sandel!<br />
 😘----------------!🇻🇳!Thank you Everyone for reading and wish Everyone good health and success in work!🇻🇳!-----------------😘
 
