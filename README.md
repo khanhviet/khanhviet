@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
 
-🥰 I am currently a developer for an company with over 29 Countries!<br />
+🥰 I am currently a developer for a company with over 29 Countries!<br />
 💕 I love reading Books, making YouTube, writing Libraries for the Software World to use!<br />
 💕 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel!<br />
 ❣️ Happiness is helping Everyone, especially Family!<br />
