@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
 
-🥰 I am currently a developer for a company with over 29 Countries!<br />
+🥰 I am a programmer. When I just graduated from university, I had an accident and became a quadriplegic. At that time, I was very depressed and thought about death so as not to affect my family. Thanks to the encouragement, I tried to live and tried to exercise. After nearly 2 years, I went back to work normally.<br />
+All efforts are rewarded!!<br />
 💕 I love reading Books, making YouTube, writing Libraries for the Software World to use!<br />
 💕 I love sharing my love for programming and technology on both my STEM and Coding YouTube channel!<br />
 ❣️ Happiness is helping Everyone, especially Family!<br />
